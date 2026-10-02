@@ -18,15 +18,6 @@ The project covers the architecture and working of an **Alcatel-Lucent OmniPCX E
 - **Integrated services** — IVRS-based complaint handling system, Alcatel 4635H voice mail system, and the OmniTouch audio/web conferencing platform.
 - **General maintenance & diagnostics** — key command-line tools used to monitor and troubleshoot the system (`config`, `cplstat`, `trkstat`, `incvisu`, `intipstat`, `ippstat`, `twin`, `role`, `pcsview`), covering board status checks, trunk state monitoring, incident logging, and IP phone diagnostics.
 
-## Files
-
-- [`Project_report_of_Alisha.pdf`](./Project_report_of_Alisha.pdf) — full project report
-- [`certificate/`](./certificate) — training completion certificate from SAIL/BSL
-
 ## Key Takeaway
 
 The project gave hands-on exposure to how large industrial organizations architect mission-critical, fault-tolerant voice communication infrastructure — balancing redundancy (hot-standby, passive failover), centralized control, and converged voice/data (VoIP) delivery across a geographically distributed plant network.
-
----
-**Alisha Mariyam Hussain**
-B.Tech, Electronics and Communication Engineering, Birla Institute of Technology, Mesra
